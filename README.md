@@ -1,4 +1,5 @@
 
+![logo Netlify](https://raw.githubusercontent.com/PierreDenaes/netlify/master/assets/img/netlify100px.png)
 # Demonstration hébergement de site avec Github
 
 > il est possible d'héberger un site via Github à partir du moment ou celui ne contient que de la donnée FRONT (html,js,css..).
